@@ -7,7 +7,7 @@
 
 ```
 USERNAME: EUserv 账户邮箱或 Customer ID,第二个账户
-PASSWORD: 第一个账户密码,第二个账户密码
+PASSWORD: 第一个账户密码,第二个账户密码即可
 ```
 ### Imput from
 https://github.com/CokeMine/EUserv_extend
